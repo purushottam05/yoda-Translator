@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Gluten&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&display=swap');
+
+
+
+.heading {
+    text-align: center;
+    border: solid 4px;
+    margin-top: 2rem;
+    padding: 2rem;
+    font-family: 'Times New Roman', serif;
+    border-radius: 1rem;
+
+}
+
+#txt-input {
+    width: 60%;
+    height: 8vh;
+    
+    margin: 1rem
+    ;
+    padding: 1rem;
+    margin-right: 3rem;
+    margin-left: 15rem
+    ;
+    font-family: 'Times New Roman', serif;
+    font-weight: bold;
+
+}
+#translate-btn {
+    margin: 0.5rem;
+    margin-left: 34rem;
+    padding: 1rem;
+    width: 20%;
+    color: #84CC16;
+    background-color: #3F6212;
+    font-size: x-large;
+    font-family: 'Times New Roman', serif;
+    font-weight: bolder;
+    border-radius: 2rem;
+    cursor: pointer;
+
+}
+.outbox {
+    margin-left: 15rem;
+    font-size: x-large;
+    font-weight: 900;
+    font-family: 'Times New Roman', serif;
+    
+
+}
+
+#Output {
+    border: solid 1px;
+    height: 8vh;
+    width: 50%;
+    margin-left: 20rem;
+    color: black;
+    margin-top: 1rem;
+    font-weight: bold;
+    font-size: larger;
+
+    
+
+}
+
+body {
+    color: 
+    #4D7C0F;
+    background-color: #ECFCCB
+}
+
+.image {
+    display: block;
+    width: 200px;
+    text-align: center;
+    margin-left: 36rem;
+
+
+}
+/* 
+
+
+
+
